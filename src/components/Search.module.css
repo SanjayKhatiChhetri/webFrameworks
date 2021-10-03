@@ -1,0 +1,28 @@
+.Search_Wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+.Search_Input {
+  border: none;
+  background-color: #fafafa;
+  padding: 10px 20px;
+  width: 300px;
+  font-size: 22px;
+  border-radius: 50px 0 0 50px;
+  border: 2px #ccc solid;
+}
+
+.Search_Button {
+  border: none;
+  background-color: #fafafa;
+  padding: 10px 20px;
+  width: 120px;
+  font-size: 22px;
+  border-radius: 0 50px 50px 0;
+  border: 2px #ccc solid;
+  cursor: pointer;
+  margin-left: -1px;
+}
